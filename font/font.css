@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "RookiePunk";
+    src: url("./RookiePunk.ttf");
+    font-weight: 500;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Postertoaster";
+    src: url("./Postertoaster\ \(1\).woff2");
+    src: 
+    url("./Postertoaster.woff2") format('woff2');
+    font-weight: 500;
+    font-style: normal;
+  }
